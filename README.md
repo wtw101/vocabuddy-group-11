@@ -6,7 +6,7 @@
 |組員|姓名|Github 帳號|分工|
 |---|---|---|---|
 |隊長|陳芃穎|pychen0622|Reviewer|
-|隊員|莊晨佑|wtw|Repository owner|
+|隊員|莊晨佑|wtw|Repository owner, ReadMe writer|
 |隊員|林君彥|James-Lin-924|Developer 1|
 |隊員|黃鼎祐|linushuan|Developer 2|
 
