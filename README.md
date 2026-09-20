@@ -1,18 +1,18 @@
 # vocabuddy-group-11
 
-### 小組名稱
-三個漢堡
+### 小組名稱：三個漢堡
 ### 組員姓名
-林君彥 莊晨佑 陳芃穎 黃鼎祐
-### 組員的 GitHub 帳號
-wtw James-Lin-924 linushuan pychen0622
+
+|組員|姓名|Github 帳號|分工|
+|---|---|---|---|
+|隊長|陳芃穎|pychen0622|Reviewer|
+|隊員|莊晨佑|wtw|Repository owner|
+|隊員|林君彥|James-Lin-924|Developer 1|
+|隊員|黃鼎祐|linushuan|Developer 2|
+
 ### 專案簡介
 一個簡單的單字紀錄程式
-### 組員分工
-* Repository owner：莊晨佑
-* Developer 1：林君彥
-* Developer 2：黃鼎祐
-* Reviewer ：陳芃穎
+
 ### 本次新增的單字與功能
 單字：apple, banana, cow
 ### Google Colab 開啟連結
